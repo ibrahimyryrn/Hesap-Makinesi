@@ -91,7 +91,7 @@ button:hover{
         width: 100%;
     }
     body{
-        height: auto !important;
+        height: 100% !important;
         margin: 0 !important;
         display: flex !important;
         justify-content: center !important;
