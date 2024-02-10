@@ -84,3 +84,20 @@ button:hover{
 .result:hover{
     background: lightgreen;
 }
+
+
+@media only screen and (max-width:768px){
+    .details div{
+        width: 100%;
+    }
+    body{
+        height: auto !important;
+        margin: 0 !important;
+        display: flex !important;
+        justify-content: center !important;
+        align-items: center !important;
+    }
+    html, body {
+        overflow-y: auto !important;
+    }
+}
