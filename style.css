@@ -97,7 +97,5 @@ button:hover{
         justify-content: center !important;
         align-items: center !important;
     }
-    html, body {
-        overflow-y: auto !important;
-    }
+  
 }
